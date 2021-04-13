@@ -1,0 +1,15 @@
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/bin/Debug/net5.0/TestAffichageDonjon.deps.json
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/bin/Debug/net5.0/TestAffichageDonjon.runtimeconfig.json
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/bin/Debug/net5.0/TestAffichageDonjon.runtimeconfig.dev.json
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/bin/Debug/net5.0/TestAffichageDonjon.dll
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/bin/Debug/net5.0/ref/TestAffichageDonjon.dll
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/bin/Debug/net5.0/TestAffichageDonjon.pdb
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.csprojAssemblyReference.cache
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.AssemblyInfoInputs.cache
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.AssemblyInfo.cs
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.csproj.CoreCompileInputs.cache
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.dll
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/ref/TestAffichageDonjon.dll
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.pdb
+/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/Debug/net5.0/TestAffichageDonjon.genruntimeconfig.cache
