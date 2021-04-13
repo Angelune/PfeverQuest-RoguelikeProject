@@ -1,11 +1,15 @@
 ﻿using System;
 
-namespace TestAffichageDonjon
+namespace PfeverQuest
 {
     class Program
     {
         static void Main(string[] args)
         {
+
+            string ennemis = "⍝ ⌾ ⍟ ⌽ 🐝 🦠 🚬";
+            string arme = "🏹 🔪 🗡 🔫";
+            string anticorps = "🧬";
             int longueur = 20;
             int largeur = 10;
             string affichage = "╔";

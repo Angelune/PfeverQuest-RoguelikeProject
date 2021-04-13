@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D8110DBC-0F9B-4A80-9217-88A46776647C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAffichageDonjon/Program.cs">
+    <Files>
+      <File FileName="TestAffichageDonjon/Program.cs" Line="34" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PfeverQuest" expanded="True" selected="True">
+            <Node name="TestAffichageDonjon" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PfeverQuest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

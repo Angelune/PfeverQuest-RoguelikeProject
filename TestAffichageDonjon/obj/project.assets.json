@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/TestAffichageDonjon.csproj",
-      "projectName": "TestAffichageDonjon",
-      "projectPath": "/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/TestAffichageDonjon.csproj",
+      "projectUniqueName": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/PfeverQuest.csproj",
+      "projectName": "PfeverQuest",
+      "projectPath": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/PfeverQuest.csproj",
       "packagesPath": "/Users/emmamarqueton/.nuget/packages/",
-      "outputPath": "/Users/emmamarqueton/Projects/TestAffichageDonjon/TestAffichageDonjon/obj/",
+      "outputPath": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emmamarqueton/.config/NuGet/NuGet.Config"

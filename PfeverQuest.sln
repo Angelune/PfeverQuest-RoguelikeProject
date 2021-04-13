@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.809.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAffichageDonjon", "TestAffichageDonjon\TestAffichageDonjon.csproj", "{D8110DBC-0F9B-4A80-9217-88A46776647C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PfeverQuest", "TestAffichageDonjon\PfeverQuest.csproj", "{D8110DBC-0F9B-4A80-9217-88A46776647C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

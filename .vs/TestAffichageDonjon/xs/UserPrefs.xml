@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D8110DBC-0F9B-4A80-9217-88A46776647C}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestAffichageDonjon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAffichageDonjon/Program.cs">
+    <Files>
+      <File FileName="TestAffichageDonjon/Program.cs" Line="9" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAffichageDonjon" expanded="True">
+            <Node name="TestAffichageDonjon" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

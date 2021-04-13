@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/TestAffichageDonjon.csproj": {}
+    "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/PfeverQuest.csproj": {}
   },
   "projects": {
-    "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/TestAffichageDonjon.csproj": {
+    "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/PfeverQuest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/TestAffichageDonjon.csproj",
-        "projectName": "TestAffichageDonjon",
-        "projectPath": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/TestAffichageDonjon.csproj",
+        "projectUniqueName": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/PfeverQuest.csproj",
+        "projectName": "PfeverQuest",
+        "projectPath": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/PfeverQuest.csproj",
         "packagesPath": "/Users/emmamarqueton/.nuget/packages/",
         "outputPath": "/Users/emmamarqueton/Projects/RoguellikeProjetS6/TestAffichageDonjon/obj/",
         "projectStyle": "PackageReference",
