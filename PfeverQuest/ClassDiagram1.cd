@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PfeverQuest.Anticorps" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAgAAAAAAAAAABAAAAAAAABAAAA=</HashCode>
+      <FileName>Anticorps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Arme" Collapsed="true">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Arme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.CaillotSanguin" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAIAAAAA=</HashCode>
+      <FileName>CaillotSanguin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Covid19" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAIAAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Covid19.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.CrisprCas13" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrisprCas13.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.CrisprCas9" Collapsed="true">
+    <Position X="13" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrisprCas9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Donjon" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAQXAgABCAAFCQAABEAAAAEAAAAAAAIAAAGAYAEAI=</HashCode>
+      <FileName>Donjon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Joueur" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="ListeEnnemis" />
+      <Property Name="ListeItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PfeverQuest.Ennemi" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ennemi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.EscherichiaColi" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAQAAgAEAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>EscherichiaColi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.FragmentVirus" Collapsed="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FragmentVirus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Item" Collapsed="true">
+    <Position X="13.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Nourriture" Collapsed="true">
+    <Position X="18.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Nourriture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Partie" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAACAQAAAAAAQAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Partie.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="JoueurAnticorps" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="LesDonjons" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PfeverQuest.Personnage" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIABAIAAAAIAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Program" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PfeverQuest.Transfection" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transfection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

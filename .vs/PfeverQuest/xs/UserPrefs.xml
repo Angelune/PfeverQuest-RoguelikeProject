@@ -1,13 +1,10 @@
-﻿<Properties StartupConfiguration="{D8110DBC-0F9B-4A80-9217-88A46776647C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestAffichageDonjon/Program.cs">
-    <Files>
-      <File FileName="TestAffichageDonjon/Program.cs" Line="34" Column="47" />
-    </Files>
+﻿<Properties StartupConfiguration="{4E8880E5-AD59-435D-92B0-92452346346C}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PfeverQuest" expanded="True" selected="True">
-            <Node name="TestAffichageDonjon" expanded="True" />
+            <Node name="PfeverQuest" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.809.5
+VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PfeverQuest", "TestAffichageDonjon\PfeverQuest.csproj", "{D8110DBC-0F9B-4A80-9217-88A46776647C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PfeverQuest", "PfeverQuest\PfeverQuest.csproj", "{4E8880E5-AD59-435D-92B0-92452346346C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D8110DBC-0F9B-4A80-9217-88A46776647C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8110DBC-0F9B-4A80-9217-88A46776647C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8110DBC-0F9B-4A80-9217-88A46776647C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8110DBC-0F9B-4A80-9217-88A46776647C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8880E5-AD59-435D-92B0-92452346346C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8880E5-AD59-435D-92B0-92452346346C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8880E5-AD59-435D-92B0-92452346346C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8880E5-AD59-435D-92B0-92452346346C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C9AA7AEF-29FF-486F-900D-EE4C93279CBD}
+		SolutionGuid = {6CFACDDE-B9AF-4B93-9B55-F68BCC720306}
 	EndGlobalSection
 EndGlobal
